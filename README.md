@@ -18,6 +18,6 @@ MIT 6.828 2012 pdf
 
 ucore 2016 spring
 		   		   
-<<modern operating systems>>
+modern operating systems
 
 xv6-public
